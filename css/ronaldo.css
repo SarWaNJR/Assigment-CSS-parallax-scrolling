@@ -1,0 +1,38 @@
+*{margin: 0%;
+  font-size: 1.2em;}
+
+  header {text-align: center;
+        background-color: black;
+        font-variant: small-caps;
+        color: blanchedalmond;
+        height: 10vh;
+        margin: 0%;
+        padding: 6%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 2em;
+       }
+
+ .note1 {
+        background-image: url("../images/ron1.webp");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        height: 120vh;
+    }
+    .note2 {
+        background-image: url("../images/ron2.webp");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        height: 120vh;
+    }
+    .note3 {
+        background-image: url("../images/ron3.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        height: 120vh;
+    }
